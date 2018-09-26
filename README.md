@@ -1,2 +1,2 @@
 # fizzbuzzjs
-fizzbuzz js
+shortest solution for fizzbuzz in js
